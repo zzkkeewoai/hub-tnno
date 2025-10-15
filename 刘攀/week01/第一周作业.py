@@ -1,4 +1,3 @@
-作业内容
 D:\miniconda3>conda list
 # packages in environment at D:\miniconda3:
 #
